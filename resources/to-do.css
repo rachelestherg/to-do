@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+}
+
+h1{
+    font-size: 60px;
+}
+
+#hover-only {
+    display: none;
+}
+
+h1:hover #hover-only {
+    display: block;
+    font-size: 20px;
+}
+
+#item {
+    padding: 15px 50px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 15px 50px;
+}
+
+li {
+    padding: 5px 2px;
+}
