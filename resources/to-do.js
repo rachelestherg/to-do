@@ -1,5 +1,4 @@
 var list_of_completed_items = [];
-var indexes = [];
 
 
 function addItem(){
