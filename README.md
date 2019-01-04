@@ -3,6 +3,9 @@ Simple To Do App
 
 
 
+
+
+
 Before any input:
 
 ![Before Any Input](/resources/images/before-items.png)
